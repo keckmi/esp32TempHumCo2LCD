@@ -1,5 +1,5 @@
 # esp32TempHumCo2LCD
-C code for esp32 az-delivery, temperatureHumiditySensor, and LCD Display 16x2 and Co2InfraredSensor MH-Z19C
+C code for esp32 az-delivery, temperatureHumiditySensor, LCD Display 16x2 and Co2InfraredSensor MH-Z19C
 
 ## Installation
 
