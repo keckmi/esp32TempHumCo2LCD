@@ -17,7 +17,7 @@ Sensor VCC -> 5V esp32,
 Sensor DATA -> G21 (GIOP21) esp32,  
 Sensor GND -> GND esp32,  
 ESP32 Code - DHT11 kopieren und in Arduino IDE einfügen,  
-  
+'''
 /*  
  * This ESP32 code is created by esp32io.com  
  *  
@@ -65,6 +65,6 @@ void loop() {
   // wait a 2 seconds between readings  
   delay(2000);  
 }  
-  
+'''  
 Upload klicken (Symbol Pfeil nach rechts, zweites von links in der zweiten Zeile von oben, alternativ unter Sketch > upload),  
 Serial Monitor öffnen (Symbol Lupe ganz rechts in der zweiten Zeile von oben): hier wird nun die Luftfeuchtigkeit Humidity und die Temperatur angezeigt  
